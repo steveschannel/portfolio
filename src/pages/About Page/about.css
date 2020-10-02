@@ -1,0 +1,97 @@
+.image {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    /* height: 1%; */
+    width: 200px;
+    box-shadow:  1px 1px 3px rgba(0, 0, 0, 0.1), 0 0px 10px 10px rgba(0, 0, 0, 0.1) ;
+}
+
+.text {
+    /* border: black 1px solid; */
+    /* text-align: start; */
+    /* display: block; */
+    /* padding: 10px; */
+    /* margin: 0px 20px; */
+    /* align-items: start; */
+    max-width: 450px;
+    /* max-width: 300px; */
+    /* width: 100px; */
+    /* margin: 0px 10% 0px 10%; */
+    /* margin: auto; */
+    /* border: solid black 1px; */
+}
+
+.button {
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    width: fit-content;
+    text-decoration: none;
+    color: white;
+    margin-top: 40px;
+    border: solid 1px;
+    background-color: #235789;
+    border-radius: 5px;
+    display: block;
+    /* display: inline; */
+    /* text-align: center; */
+
+}
+
+.about {
+    /* box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.1), 0 0 25px 0 rgba(0, 0, 0, 0.1) ; */
+    /* text-align: center; */
+    /* position: absolute; */
+    /* border-radius: 3%; */
+    /* border: solid lightgray 1px; */
+    /* float: none; */
+    /* width: 50%; */
+    /* padding: 20px; */
+    /* margin-top: 50px; */
+    /* overflow: scroll; */
+    /* display: block; */
+    margin: 0px auto;
+    /* align-self: center; */
+    /* display: flex; */
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+
+.title-container {
+    /* display: inline-block; */
+    /* width: fit-content; */
+    /* margin: auto; */
+    /* border: black solid; */
+    /* padding: 10px 10px; */
+    /* flex: auto; */
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.flex-container-outer {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    /* border: black solid 1px; */
+    width: 90%;
+    height: fit-content;
+    /* border: solid lightgray 1px; */
+    margin: 0px auto;
+    flex-wrap: wrap;
+}
+
+.parent-container {
+    /* padding-top: 1%; */
+}
+
+.section-header {
+    color: #235789;
+}
+
+.dates-worked {
+    font-style: italic;
+}

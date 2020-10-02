@@ -1,0 +1,19 @@
+.flex-c-outer {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    /* border: black solid 1px; */
+    width: 90%;
+    height: fit-content;
+    /* border: solid lightgray 1px; */
+    margin: 0px auto;
+    flex-wrap: wrap;
+}
+
+.project {
+    border: black solid 1px;
+    flex-wrap: wrap;
+    margin: 0px 10px;
+    width: 30%;
+    text-align: center;
+}

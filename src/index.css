@@ -11,3 +11,85 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navigation {
+  /* display: inline-block; */
+  /* overflow: hidden; */
+  /* margin-top: 1vh; */
+  text-align: center;
+  /* height: 10vh; */
+  /* margin-top: ; */
+  /* border-style: solid; */
+  /* margin: 20px auto; */
+}
+
+/* .navigation .link {
+  float: left;
+} */
+
+.site-header {
+  /* float: center; */
+  /* font-size: 20pt; */
+  /* position: absolute; */
+  /* left: 50%; */
+  /* right: 50% */
+  width: fit-content;
+  height: 50px;
+  margin: 0px auto;
+  /* padding: 0 0 0 0; */
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -20%); */
+}
+.link {
+  /* margin: 5px; */
+  /* height: 200px; */
+  text-decoration: none;
+  /* font-weight: bold; */
+  color: black;
+  /* background-color: lightgray; */
+  /* padding: 20px ; */
+  margin-left: 20px;
+  margin-right: 20px;
+  /* width: 20% */
+  /* line-height: inherit; */
+}
+
+.dropdown {
+  /* background-color: #235789; */
+  /* height: 100%; */
+  /* width: 20%; */
+  float: left;
+}
+
+.border {
+border: solid black 1px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+  /* display: inline-block; */
+}
+
+.right {
+  /* border: solid black; */
+  /* overflow: hidden; */
+  /* width:20%; */
+  /* padding: 20px 200px; */
+}
+
+.namehead {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    /* float:center; */
+}
+
+.icon {
+  font-size: 25px;
+  margin: 0 10px;
+}
