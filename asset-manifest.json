@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/stephenachan.com/static/css/main.e9448d43.chunk.css",
-    "main.js": "/stephenachan.com/static/js/main.ed09c0c5.chunk.js",
-    "main.js.map": "/stephenachan.com/static/js/main.ed09c0c5.chunk.js.map",
-    "runtime-main.js": "/stephenachan.com/static/js/runtime-main.aa8c0cd1.js",
-    "runtime-main.js.map": "/stephenachan.com/static/js/runtime-main.aa8c0cd1.js.map",
-    "static/js/2.a88f9c9b.chunk.js": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js",
-    "static/js/2.a88f9c9b.chunk.js.map": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js.map",
-    "index.html": "/stephenachan.com/index.html",
-    "precache-manifest.171f0ebd12f241de3ea3b625894f65e8.js": "/stephenachan.com/precache-manifest.171f0ebd12f241de3ea3b625894f65e8.js",
-    "service-worker.js": "/stephenachan.com/service-worker.js",
-    "static/css/main.e9448d43.chunk.css.map": "/stephenachan.com/static/css/main.e9448d43.chunk.css.map",
-    "static/js/2.a88f9c9b.chunk.js.LICENSE.txt": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/stephenachan.com/static/media/1.e4abba38.png",
-    "static/media/PDF Design Portfolio.pdf": "/stephenachan.com/static/media/PDF Design Portfolio.e8828d8e.pdf",
-    "static/media/Resume.pdf": "/stephenachan.com/static/media/Resume.7b380a77.pdf"
+    "main.css": "/static/css/main.e9448d43.chunk.css",
+    "main.js": "/static/js/main.ad9fb25f.chunk.js",
+    "main.js.map": "/static/js/main.ad9fb25f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.a88f9c9b.chunk.js": "/static/js/2.a88f9c9b.chunk.js",
+    "static/js/2.a88f9c9b.chunk.js.map": "/static/js/2.a88f9c9b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.584a22db9713cf570456ad0089ca69f9.js": "/precache-manifest.584a22db9713cf570456ad0089ca69f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e9448d43.chunk.css.map": "/static/css/main.e9448d43.chunk.css.map",
+    "static/js/2.a88f9c9b.chunk.js.LICENSE.txt": "/static/js/2.a88f9c9b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.e4abba38.png",
+    "static/media/PDF Design Portfolio.pdf": "/static/media/PDF Design Portfolio.e8828d8e.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.7b380a77.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa8c0cd1.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.a88f9c9b.chunk.js",
     "static/css/main.e9448d43.chunk.css",
-    "static/js/main.ed09c0c5.chunk.js"
+    "static/js/main.ad9fb25f.chunk.js"
   ]
 }
