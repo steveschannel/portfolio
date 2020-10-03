@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e9448d43.chunk.css",
-    "main.js": "/portfolio/static/js/main.4ea600b0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4ea600b0.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.a88f9c9b.chunk.js": "/portfolio/static/js/2.a88f9c9b.chunk.js",
-    "static/js/2.a88f9c9b.chunk.js.map": "/portfolio/static/js/2.a88f9c9b.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.7b18b3a7dbf72013e8ea418153b79aa6.js": "/portfolio/precache-manifest.7b18b3a7dbf72013e8ea418153b79aa6.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.e9448d43.chunk.css.map": "/portfolio/static/css/main.e9448d43.chunk.css.map",
-    "static/js/2.a88f9c9b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a88f9c9b.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/portfolio/static/media/1.e4abba38.png",
-    "static/media/PDF Design Portfolio.pdf": "/portfolio/static/media/PDF Design Portfolio.e8828d8e.pdf",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.7b380a77.pdf"
+    "main.css": "/stephenachan.com/static/css/main.e9448d43.chunk.css",
+    "main.js": "/stephenachan.com/static/js/main.ed09c0c5.chunk.js",
+    "main.js.map": "/stephenachan.com/static/js/main.ed09c0c5.chunk.js.map",
+    "runtime-main.js": "/stephenachan.com/static/js/runtime-main.aa8c0cd1.js",
+    "runtime-main.js.map": "/stephenachan.com/static/js/runtime-main.aa8c0cd1.js.map",
+    "static/js/2.a88f9c9b.chunk.js": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js",
+    "static/js/2.a88f9c9b.chunk.js.map": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js.map",
+    "index.html": "/stephenachan.com/index.html",
+    "precache-manifest.171f0ebd12f241de3ea3b625894f65e8.js": "/stephenachan.com/precache-manifest.171f0ebd12f241de3ea3b625894f65e8.js",
+    "service-worker.js": "/stephenachan.com/service-worker.js",
+    "static/css/main.e9448d43.chunk.css.map": "/stephenachan.com/static/css/main.e9448d43.chunk.css.map",
+    "static/js/2.a88f9c9b.chunk.js.LICENSE.txt": "/stephenachan.com/static/js/2.a88f9c9b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/stephenachan.com/static/media/1.e4abba38.png",
+    "static/media/PDF Design Portfolio.pdf": "/stephenachan.com/static/media/PDF Design Portfolio.e8828d8e.pdf",
+    "static/media/Resume.pdf": "/stephenachan.com/static/media/Resume.7b380a77.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
+    "static/js/runtime-main.aa8c0cd1.js",
     "static/js/2.a88f9c9b.chunk.js",
     "static/css/main.e9448d43.chunk.css",
-    "static/js/main.4ea600b0.chunk.js"
+    "static/js/main.ed09c0c5.chunk.js"
   ]
 }
