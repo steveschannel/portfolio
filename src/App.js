@@ -3,7 +3,7 @@ import { About } from './pages/About Page/about'
 import { Work } from './pages/Work Pages/work'
 import './App.css';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect,
@@ -16,7 +16,17 @@ function App() {
     <Router>
       <div className="namehead" >
         <h1>Stephen Chan</h1>
-        <span> <AiFillMail className="icon" /> <AiFillLinkedin className="icon" /> <AiFillGithub className="icon" /></span>
+        <span>
+          <a className="icon" href="mailto:stephen.albaran.chan@gmail.com">
+            <AiFillMail />
+          </a>
+          <a className="icon" href="https://github.com/steveschannel/">
+            <AiFillGithub />
+          </a>
+          <a className="icon" href="https://www.linkedin.com/in/stephen-chan-50074413b/">
+            <AiFillLinkedin />
+          </a>
+        </span>
       </div>
       <div className="navigation site-header">
 
