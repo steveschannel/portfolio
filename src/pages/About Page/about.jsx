@@ -1,7 +1,7 @@
 import React from 'react';
 import me from './1.png'
 import './about.css';
-import Resume from './Resume.pdf'
+// import '%PUBLIC_URL%/Resume.pdf'
 
 export const About = () =>
     <div>
@@ -17,7 +17,9 @@ export const About = () =>
                         <p> I'm now back home and am currently looking for my first fulltime role as a software engineer.</p>
                     </div>
                 </div>
-                <a href={{ Resume }} className="button" download="download"> Download Resume </a>
+                <a href="/Resume.pdf" className="button"
+                // download="Resume.pdf"
+                > View Resume </a>
             </div>
 
             <div className="skills">

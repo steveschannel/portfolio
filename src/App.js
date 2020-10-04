@@ -35,9 +35,7 @@ function App() {
 
       </div>
       <Switch >
-        <Route exact path="/">
-          <Redirect to="/about" />
-        </Route>
+        <Redirect exact from="/" to="/about" />
 
         <Route path="/about">
           <About />
@@ -45,10 +43,6 @@ function App() {
 
         <Route path="/work">
           <Work />
-        </Route>
-
-        <Route>
-
         </Route>
 
       </Switch>
