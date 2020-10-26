@@ -1,5 +1,5 @@
 import React from 'react';
-import me from './1.png'
+import me from './me.jpg'
 import './about.css';
 // import '%PUBLIC_URL%/Resume.pdf'
 
