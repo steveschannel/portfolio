@@ -27,15 +27,15 @@ export const About = () =>
                     <div className="text">
                         <h2 className="section-header">Skills</h2>
                         <h4>Programming Languages</h4>
-                        <p>Python, Javascript, Java, C++</p>
+                        <p>Python, Javascript, Java, C++, PHP</p>
                         <h4>Frameworks</h4>
-                        <p>Django, VueJS, React</p>
+                        <p>Django, VueJS, React, Graphene</p>
                         <h4>Database</h4>
                         <p>PostgreSQL</p>
                         <h4>Frontend</h4>
                         <p>HTML5, CSS3, Bootstrap</p>
                         <h4>Misc</h4>
-                        <p>Git, Unit Testing, Linux, Redux, Docker, Wordpress, Adobe Creative Suite, Sketch,</p>
+                        <p>GraphQL, Git, Jest, Unit Testing, Linux, Redux, Docker, Wordpress, Adobe Creative Suite, Sketch</p>
                         <h4>Foreign Languages</h4>
                         <p>Spanish - Advanced Low</p>
                     </div>
